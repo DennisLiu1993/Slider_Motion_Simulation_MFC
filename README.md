@@ -1,5 +1,4 @@
-# A project  to demonstrate the concept of CPaintDC and timer in MFC, 
-# and flexibly utilize it to simulate the motion of crank-slider.
+# A project  to demonstrate the concept of CPaintDC and timer in MFC, and flexibly utilize it to simulate the motion of crank-slider.
 
 In this project, users can set parameters, such as rod length, initial distance of crank from the origin, angle acceleration, etc., 
 to show motion in different situation.
